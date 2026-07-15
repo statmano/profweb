@@ -41,20 +41,21 @@ const projects = [
     summary:
       'A quick demonstration of customization capabilities of Fastly Compute\'s localization features.',
     link: 'https://statmano.github.io/weathertest/',
-    tags: ['Edge Computing', 'Localization'],
+    tags: ['Edge Computing', 'Localization', 'Language'],
 
   },
   {
-    title: 'Studio Portfolio Platform',
+    title: 'Tiny Demo: Park Locator at the Edge',
     summary:
-      'A refined portfolio experience featuring modular content sections and smooth storytelling for creative work.',
-    tags: ['UI', 'Motion', 'Accessibility'],
+      'A demonstration of Fastly Compute\'s edge computing capabilities for a locator application.',
+    tags: ['Edge Computing', 'Location', 'Maps'],
   },
   {
-    title: 'Signal Commerce Toolkit',
+    title: 'Draft Lottery',
     summary:
-      'A reusable commerce toolkit for product teams seeking faster iteration and stronger conversion paths.',
-    tags: ['Frontend', 'Performance', 'Testing'],
+      'A simple web application for generating fantasy draft orders via a lottery system.',
+    link: 'https://statmano.github.io/draft-lottery/',
+    tags: ['Javascript', 'Tools'],
   },
 ]
 
