@@ -7,7 +7,7 @@ function AboutSection({ highlights }) {
       </div>
       <div className="about-grid">
         <p>
-          I’m a developer who enjoys translating complex ideas into elegant,
+          I’m a Product Manager with wide-ranging experience who enjoys translating complex ideas into elegant,
           intuitive products. My work sits at the intersection of strategy,
           interface quality, and execution, with a strong emphasis on collaboration.
         </p>

@@ -18,7 +18,7 @@ function HeroSection() {
         </div>
         <ul className="social-links">
           <li>
-            <a href="https://github.com/" target="_blank" rel="noreferrer">
+            <a href="https://github.com/statmano" target="_blank" rel="noreferrer">
               GitHub
             </a>
           </li>
@@ -43,8 +43,7 @@ function HeroSection() {
           <p className="card-label">Current focus</p>
           <h2>I'm a free agent!</h2>
           <p>
-            From front-end architecture to presentation polish, I focus on clarity,
-            accessibility, and lasting impact.
+            I'm open to new opportunities and collaborations. If you're looking for a product manager with a strong background in developer experience, let's connect!
           </p>
         </div>
       </div>

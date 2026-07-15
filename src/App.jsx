@@ -6,8 +6,8 @@ import ProjectsSection from './components/ProjectsSection'
 import ContactSection from './components/ContactSection'
 
 const highlights = [
-  'Product-minded development with a strong design sensibility',
-  'Experience shaping polished frontends and reliable systems',
+  'Product-minded development with a strong design and strategicsensibility',
+  'Experience in helping build and scale web communities and internal tools',
   'Collaborative approach to planning, implementation, and iteration',
 ]
 
