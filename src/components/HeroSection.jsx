@@ -23,7 +23,7 @@ function HeroSection() {
             </a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
+            <a href="www.linkedin.com/in/sean-o-brien-71717650" target="_blank" rel="noreferrer">
               LinkedIn
             </a>
           </li>
