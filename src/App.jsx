@@ -48,6 +48,7 @@ const projects = [
     title: 'Tiny Demo: Park Locator at the Edge',
     summary:
       'A demonstration of Fastly Compute\'s edge computing capabilities for a locator application.',
+    link: 'https://statmano.github.io/locator-frontend/',
     tags: ['Edge Computing', 'Location', 'Maps'],
   },
   {

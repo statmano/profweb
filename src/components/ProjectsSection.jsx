@@ -10,7 +10,7 @@ function ProjectsSection({ projects }) {
           <article className="project-card" key={project.title}>
             <h3>{project.title}</h3>
             <p>{project.summary}</p>
-            <a href={project.link} target="_blank" rel="noreferrer">
+            <a className="project-link" href={project.link} target="_blank" rel="noreferrer">
               View Project
             </a>
             <div className="tag-row">

@@ -8,8 +8,8 @@ function AboutSection({ highlights }) {
       <div className="about-grid">
         <p>
           I’m a Product Manager with wide-ranging experience who enjoys translating complex ideas into elegant,
-          intuitive products. My work sits at the intersection of strategy,
-          interface quality, and execution, with a strong emphasis on collaboration.
+          intuitive products and solutions. My work sits at the intersection of strategy
+          and execution to let users hit the ground running, with a strong emphasis on collaboration.
         </p>
         <ul className="highlights">
           {highlights.map((item) => (

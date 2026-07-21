@@ -210,6 +210,21 @@ h1 {
   border-color: var(--accent-maroon);
 }
 
+.project-link {
+  display: inline-flex;
+  align-items: center;
+  margin-top: 12px;
+  font-weight: 600;
+  color: var(--accent-lime);
+  text-decoration: none;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.project-link:hover {
+  color: var(--accent-maroon);
+  transform: translateX(2px);
+}
+
 .tag-row {
   display: flex;
   flex-wrap: wrap;
