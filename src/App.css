@@ -235,7 +235,7 @@ h1 {
 .tag-row span {
   padding: 0.35rem 0.7rem;
   border-radius: 999px;
-  background: rgba(151, 53, 63, 0.18);
+  background: rgba(8, 241, 222, 0.1);
   color: var(--heading-color);
   font-size: 0.85rem;
 }

@@ -8,9 +8,9 @@
   --surface: #182331;
   --heading-color: #f1f4f8;
   --muted: #9aa4b2;
-  --accent-gold: #d8b36a;
-  --accent-maroon: #97353f;
-  --accent-maroon-hover: #b14551;
+  --accent-gold: rgb(241, 162, 8);
+  --accent-maroon: #1282A2;
+  --accent-maroon-hover: #2b95b3;
   --accent-lime: #5ef38c;
   --accent-lime-hover: #5ec9f3;
   --border: #2b3848;
