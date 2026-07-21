@@ -9,5 +9,5 @@ import { playwright } from '@vitest/browser-playwright';
 const dirname = typeof __dirname !== 'undefined' ? __dirname : path.dirname(fileURLToPath(import.meta.url));
 export default defineConfig({
   plugins: [react()],
-  base: './',
+  base: '/work/',
 });
